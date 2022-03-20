@@ -1,9 +1,12 @@
 #title Dumpster Diving 
 #subtitle Utrecht
 #author Book-Café the Barricade
-#date 2022.02
+#date 2022.03
 #lang en
 #cover cover.png 
+
+[[map.png]] 
+
 
 ** Dumpster Diving 101
 
