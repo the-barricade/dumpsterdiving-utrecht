@@ -1,7 +1,7 @@
 #title Dumpster Diving 
 #subtitle Utrecht
 #author the Barricade
-#date 2023.06
+#date 2023.12
 #lang en
 #cover cover.png 
 
